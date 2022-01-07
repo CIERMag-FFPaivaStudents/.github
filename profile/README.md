@@ -2,7 +2,7 @@
 
 ![CIERMag-_logo](https://user-images.githubusercontent.com/63120865/148411049-3d3fdb67-acf6-40eb-b0a8-7a3a9b9d87ea.png)
 
-Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located at São Carlos Institute of Physics from the University of São Paulo, and one of its advisors is Prof. Fernando F. Paiva. Then, in this organization, you will find the recent projects from professor Paiva's students.
+Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located at São Carlos Institute of Physics from the University of São Paulo, and one of its supervisors is Prof. Fernando F. Paiva. Then, in this organization, you will find the recent projects from professor Paiva's students.
 
 ## Projects
 
@@ -11,7 +11,7 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
 * Non-local Means filter
 * Wavelet transform
 
-## Advisor
+## Supervisor
 
 ## Students
 
