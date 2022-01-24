@@ -19,7 +19,7 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
       <a href="#">
         <img src="https://github.com/ffpaiva.png?size=100" width="100px;" alt="Foto do Fernando Fernandes Paiva no GitHub"/><br>
         <sub>
-          <a href="https://github.com/ffpaiva">Fernando Fernandes Paiva</a>
+          <a href="https://github.com/ffpaiva">Fernando F. Paiva</a>
         </sub>
       </a>
     </td>
