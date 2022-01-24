@@ -25,8 +25,6 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#">
         <img src="https://github.com/rafhenri.png?size=100" width="100px;" alt="Foto do Rafael Henrique no GitHub"/><br>
@@ -35,8 +33,6 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#">
         <img src="https://github.com/felipederrico.png?size=100" width="100px;" alt="Foto do Felipe Derrico no GitHub"/><br>
