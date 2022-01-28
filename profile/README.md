@@ -74,7 +74,7 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
       <a href="#">
         <img src="https://github.com/RodrigoSena0.png?size=100" width="100px;" alt="Foto do Rodrigo Sena no GitHub"/><br>
         <sub>
-          <a href="https://github.com/RodrigoSena0">Caio Oliveira</a>
+          <a href="https://github.com/RodrigoSena0">Rodrigo Sena</a>
         </sub>
       </a>
     </td>
