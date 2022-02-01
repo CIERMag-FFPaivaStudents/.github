@@ -6,10 +6,10 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
 
 ## Projects
 
-* Computational Fluid Dynamics
-* Diffusion MRI
-* Non-local Means filter
-* Wavelet transform
+* <a href="https://github.com/CIERMag-FFPaivaStudents/CFD">Computational Fluid Dynamics</a>
+* <a href="https://github.com/CIERMag-FFPaivaStudents/Diffusion">Diffusion MRI</a>
+* <a href="https://github.com/CIERMag-FFPaivaStudents/NLM">Non-local Means filter</a>
+* <a href="https://github.com/CIERMag-FFPaivaStudents/Wavelet">Wavelet transform</a>
 
 ## Supervisor
 
