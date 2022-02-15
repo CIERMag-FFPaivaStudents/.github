@@ -1,4 +1,4 @@
-# CIERMag - Fernando Fernandes Paiva Students
+# CIERMag - Fernando Fernandes Paiva Student's
 
 ![CIERMag-_logo](https://user-images.githubusercontent.com/63120865/148411049-3d3fdb67-acf6-40eb-b0a8-7a3a9b9d87ea.png)
 
