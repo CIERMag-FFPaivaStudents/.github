@@ -1,6 +1,6 @@
 # CIERMag - Fernando Fernandes Paiva Student's
 
-![CIERMag-_logo](https://user-images.githubusercontent.com/63120865/148411049-3d3fdb67-acf6-40eb-b0a8-7a3a9b9d87ea.png)
+![logoCIERMag](https://user-images.githubusercontent.com/63120865/154990241-554057a5-0a76-4423-b00e-0d1bde6b1e7f.png)
 
 Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located at São Carlos Institute of Physics from the University of São Paulo, and one of its supervisors is Prof. Fernando F. Paiva. Then, in this organization, you will find the recent projects from professor Paiva's students.
 
