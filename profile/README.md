@@ -40,9 +40,9 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/rafhenri.png?size=100" width="100px;" alt="Foto do Rafael Henrique no GitHub"/><br>
+        <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Foto do Rafael Henrique no GitHub"/><br>
         <sub>
-          <a href="https://github.com/rafhenri">Rafael Henrique</a>
+          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a>
         </sub>
       </a>
     </td>
