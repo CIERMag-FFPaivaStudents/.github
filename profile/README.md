@@ -58,8 +58,9 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
 </table>
 
 ## Alumni
-</table>
-  </tr>
+
+<table>
+  <tr>
     <td align="center">
       <a href="#">
         <img src="https://github.com/CaiodeJesus.png?size=100" width="100px;" alt="Foto do Caio Oliveira no GitHub"/><br>
