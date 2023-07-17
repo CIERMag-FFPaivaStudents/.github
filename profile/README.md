@@ -40,25 +40,9 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Foto do Rafael Henrique no GitHub"/><br>
-        <sub>
-          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
         <img src="https://github.com/felipederrico.png?size=100" width="100px;" alt="Foto do Felipe Derrico no GitHub"/><br>
         <sub>
           <a href="https://github.com/felipederrico">Felipe Derrico</a>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/joao-ant.png?size=100" width="100px;" alt="Foto do João Antônio no GitHub"/><br>
-        <sub>
-          <a href="https://github.com/joao-ant">João Antônio</a>
         </sub>
       </a>
     </td>
@@ -81,6 +65,22 @@ Hi! This is a GitHub organization of an MRI lab from Brazil. CIERMag is located 
         <img src="https://github.com/CaiodeJesus.png?size=100" width="100px;" alt="Foto do Caio Oliveira no GitHub"/><br>
         <sub>
           <a href="https://github.com/CaiodeJesus">Caio Oliveira</a>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Foto do Rafael Henrique no GitHub"/><br>
+        <sub>
+          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/joao-ant.png?size=100" width="100px;" alt="Foto do João Antônio no GitHub"/><br>
+        <sub>
+          <a href="https://github.com/joao-ant">João Antônio</a>
         </sub>
       </a>
     </td>
